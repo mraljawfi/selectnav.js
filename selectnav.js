@@ -1,7 +1,7 @@
 /**
  * @preserve SelectNav.js (v. 0.1)
  * Converts your <ul>/<ol> navigation into a dropdown list for small screens
- * https://github.com/lukaszfiszer/selectnav.js
+ * https://github.com/mraljawfi/selectnav.js
  */
 
 window.selectnav = (function(){
