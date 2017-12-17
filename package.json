@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukaszfiszer/selectnav.js.git"
+    "url": "https://github.com/mraljawfi/selectnav.js.git"
   },
   "keywords": [
     "browser",
@@ -23,9 +23,9 @@
     "menu",
     "navigation"
   ],
-  "author": "Lukasz Fiszer",
+  "author": "mr Aljawfi ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukaszfiszer/selectnav.js/issues"
+    "url": "https://github.com/mraljawfi/selectnav.js/issues"
   }
 }
